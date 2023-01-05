@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "firebase": "^9.15.0",
+    "fs": "^0.0.1-security",
+    "sqlite3": "^5.1.4"
+  }
+}
